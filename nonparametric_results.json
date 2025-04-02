@@ -1,0 +1,47 @@
+{
+  "gender": {
+    "determiner": {
+      "u_stat": 24377378.0,
+      "p_value": 5.938597813310956e-39,
+      "male_median": 0.08823529411764706,
+      "female_median": 0.05555555555555555,
+      "male_n": 8034,
+      "female_n": 5374
+    },
+    "preposition": {
+      "u_stat": 24494545.0,
+      "p_value": 5.2497298905295886e-43,
+      "male_median": 0.07288217439293598,
+      "female_median": 0.034482758620689655,
+      "male_n": 8034,
+      "female_n": 5374
+    },
+    "negation": {
+      "u_stat": 22558720.5,
+      "p_value": 4.5171365949688983e-10,
+      "male_median": 0.0,
+      "female_median": 0.0,
+      "male_n": 8034,
+      "female_n": 5374
+    },
+    "adverbial/other": {
+      "u_stat": 20810010.5,
+      "p_value": 0.00037827647528278555,
+      "male_median": 0.3018054651919323,
+      "female_median": 0.3261259155368552,
+      "male_n": 8034,
+      "female_n": 5374
+    },
+    "total_stopwords": {
+      "u_stat": 22306230.0,
+      "p_value": 0.0010312997578669392,
+      "male_median": 0.524024240675276,
+      "female_median": 0.5116279069767442,
+      "male_n": 8034,
+      "female_n": 5374
+    }
+  },
+  "age": {},
+  "discipline": {},
+  "native_language": {}
+}
